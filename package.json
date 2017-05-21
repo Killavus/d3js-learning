@@ -1,0 +1,9 @@
+{
+  "name": "d3js-learning",
+  "version": "1.0.0",
+  "description": "d3.js learning experiments",
+  "main": "index.js",
+  "repository": "git@github.com:Killavus/d3js-learning.git",
+  "author": "Marcin Grzywaczewski <killavus@gmail.com>",
+  "license": "MIT"
+}
